@@ -17,7 +17,6 @@ function forLoop(array) {
   return array
 }
 
-
 /*
   2) loops whileLoop(n) counts down from n to 0:
      ReferenceError: whileLoop is not defined
