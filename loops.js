@@ -8,8 +8,8 @@
 
 function forLoop(array) {
   for (let i = 0; i < 25; i++) {
-    if {
-      code 
+    if (i === 1) {
+      return `I am ${i} strange loop.`
     } else {
       
     }
