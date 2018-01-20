@@ -41,8 +41,8 @@ function doWhileLoop(arr) {
   }
 
   do {
-    array = array.slice(1)
-  } while (array.length > 0 && maybeTrue())
+    arr = arr.slice(1)
+  } while (arr.length > 0 && maybeTrue())
  
  return(arr);
 }
