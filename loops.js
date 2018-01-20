@@ -30,8 +30,6 @@ function whileLoop(num) {
   return ("done");
 }
 
-
-
 /*
   3) loops doWhileLoop(array) removes elements from `array` until `array` is empty or until `maybeTrue()` returns `false`:
      ReferenceError: doWhileLoop is not defined
