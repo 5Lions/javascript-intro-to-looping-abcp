@@ -35,3 +35,6 @@ function whileLoop(num) {
      ReferenceError: doWhileLoop is not defined
       at Context.it (test/loops-test.js:62:24) */
 
+function doWhileLoop(arr) {
+  function 
+}
