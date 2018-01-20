@@ -22,7 +22,13 @@ function forLoop(array) {
      ReferenceError: whileLoop is not defined
       at Context.it (test/loops-test.js:50:7) */
 
-
+function whileLoop(num) {
+  let countdown = num;
+  while (countdown > 0) {
+  console.log(--countdown);
+  }
+  return ("done");
+}
 
 
 
